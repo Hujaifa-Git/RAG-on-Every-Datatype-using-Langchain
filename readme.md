@@ -46,8 +46,11 @@ To run the app you just hape to run the following command,
 ```bash
 python <csv/json/html/json/markdown/pdf/text>_rag.py
 ```
+You can change the directory of file path to do RAG on your own dataset. Just go into any particular script and change the data path location
 
 ## Screenshots
+Here the inference was done on a Japanese Model, You can use any LLM or any type of document to do these inference.
+
 Text RAG
 
 ![Text RAG](Screenshot/Text.png)
